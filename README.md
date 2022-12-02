@@ -2,6 +2,6 @@
 
 Benchmark instances of many optimization problems.
 
-## Folders:
+## Directories:
 
 * **_PMSPwCS_** - Parallel Machine Scheduling Problem with a Common Server
