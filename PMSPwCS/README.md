@@ -46,5 +46,5 @@ level 3: s_1 s_2 s_3 ... s_n
 
 ...
 ```
-> Example: The instance number 4 with 10 jobs, 2 machines, $\alpha = 0.3$, and $\rho=1.0$ is found in the file 10n2m2a.txt. 
+> Example: Instance number 4 with 10 jobs, 2 machines, $\alpha = 0.3$, and $\rho=1.0$ can be found in the 10n2m2a.txt. 
 >> The processing and setup (level 3) times are just below the line *Ins: 4*. 
